@@ -4,14 +4,8 @@
   图像为：
   ![image](./Function%20Image/Sigmoid.png)
 - ## ReLU
-$$
-ReLU(x)=
-\begin{dcases}
-    0, & x<0\\
-    x, & x \ge 0
-\end{dcases}
-$$
-    其图像为：
+$$ReLU(x)=max(0, x)$$
+    其图像为： 
     ![image](./Function%20Image/ReLU.png)
 - ## GELU
     GELU在论文 *AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE* 中使用  
