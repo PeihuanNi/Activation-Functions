@@ -20,7 +20,7 @@
 
     $$\Phi(x) = \frac{1}{2} \left( 1 + {erf} \left( \frac{x}{\sqrt{2}} \right) \right)$$
 
-    其中，${erf}(x)$ 是误差函数（error function），其定义为：
+    其中，$erf(x)$ 是误差函数（error function），其定义为：
 
     $${erf}(x) = \frac{2}{\sqrt{\pi}} \int_0^x e^{-t^2} \, dt$$
 
