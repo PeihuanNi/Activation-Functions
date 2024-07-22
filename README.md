@@ -4,7 +4,7 @@
   图像为：
   ![image](./Function%20Image/Sigmoid.png)
 - ## ReLU
-$$ReLU(x)=max(0, x)$$
+    $$ReLU(x)=max(0, x)$$  
     其图像为： 
     ![image](./Function%20Image/ReLU.png)
 - ## GELU
